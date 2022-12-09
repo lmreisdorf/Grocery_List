@@ -4,9 +4,10 @@ Created by Lynette Reisdorf 2022
 Written in Kotlin using Android Studio
 
 Uses a recycler view and text input to generate a grocery list.
+
 ![Preview](https://github.com/lmreisdorf/Grocery_List/blob/master/Grocery%20List.gif "Preview")
 
-Copyright [2022] [Lynette Reisdorf]
+Copyright 2022 Lynette Reisdorf
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
